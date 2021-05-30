@@ -1,4 +1,4 @@
-package adapterPattern;
+package adapterPattern2;
 
 public class ServiceA {
 
