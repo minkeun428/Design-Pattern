@@ -11,6 +11,7 @@ public class Client {
         rambo.runContext(new Strategy() {
             @Override
             public void runStrategy() {
+
                 System.out.println("총! 총총 총이다!");
             }
         });
@@ -19,6 +20,7 @@ public class Client {
         rambo.runContext(new Strategy() {
             @Override
             public void runStrategy() {
+
                 System.out.println("칼! 칼칼 칼이다!");
             }
         });
@@ -27,6 +29,7 @@ public class Client {
         rambo.runContext(new Strategy() {
             @Override
             public void runStrategy() {
+
                 System.out.println("도끼! 도도끼 도끼다!");
             }
         });
