@@ -1,4 +1,4 @@
-package adapterPattern2;
+package adapterPattern;
 
 public class ClientWithAdapter {
     public static void main(String args[]) {
